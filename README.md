@@ -1,4 +1,4 @@
-# 🌍 Smart Air Quality Intelligence and Forecasting System
+# Smart Air Quality Intelligence and Forecasting System
 
 **Bayumandal** is an AI-powered web platform for real-time air quality monitoring, 24-hour AQI forecasting, and health guidance.
 
@@ -8,7 +8,7 @@ Most air quality apps only show the current AQI, often in technical terms that a
 
 ---
 
-## ✨ Features
+## Features
 
 - **Real-time monitoring:** live AQI, pollutant levels (PM2.5, PM10, CO, NO₂, SO₂, O₃), and weather data for **294 cities across 123 countries**, powered by the Open-Meteo API
 - **24-hour AQI forecasting:** a multi-output Random Forest model predicts hourly AQI for the next 24 hours, shown as trend charts and an hourly table
@@ -18,7 +18,7 @@ Most air quality apps only show the current AQI, often in technical terms that a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -31,7 +31,7 @@ Most air quality apps only show the current AQI, often in technical terms that a
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
             User (Browser)
@@ -53,7 +53,7 @@ The React frontend communicates only with the Spring Boot backend. The backend h
 
 ---
 
-## 🤖 Machine Learning Model
+## Machine Learning Model
 
 Five models were trained and compared on the same dataset. **Random Forest** was selected for its strong balance of accuracy, speed, and interpretability (feature importance).
 
@@ -76,7 +76,7 @@ The model uses 42 features, including pollutant and weather data, time features 
 
 ---
 
-## 👩‍💻 My Contributions (Nita Dangol)
+## My Contributions (Nita Dangol)
 
 This was a team project built by four students. I was responsible for the **backend development** and also contributed to research, documentation, and integration throughout the project.
 
@@ -99,7 +99,7 @@ This was a team project built by four students. I was responsible for the **back
 
 ---
 
-## 👥 Team
+## Team
 
 | Member | Role |
 |---|---|
@@ -114,7 +114,7 @@ This was a team project built by four students. I was responsible for the **back
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 - Mobile apps for iOS and Android
 - IoT sensor integration for hyperlocal monitoring
