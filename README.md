@@ -86,6 +86,8 @@ This was a team project built by four students. I was responsible for the **back
 - Built the **RESTful APIs** for live AQI data, pollutant information, AQI rankings, prediction requests, and safety guidance
 - Integrated the **Python/FastAPI Random Forest prediction service** with the backend to deliver 24-hour AQI forecasts
 - Connected the **React frontend** to the backend APIs for a complete end-to-end workflow
+- Integrated the frontend, backend, database, ML model, AI chatbot, and external APIs into one system
+
 
 ### Smart Safety Guides Recommendation Engine
 - Designed and implemented the **content-based filtering engine** that generates smart safety guidance
@@ -95,7 +97,6 @@ This was a team project built by four students. I was responsible for the **back
 ### Research, Documentation & Integration
 - Participated in the **literature review** of existing air quality monitoring and AQI forecasting research, which shaped our choice of model and features
 - Contributed to writing the **project proposal**, **mid-term report**, and **final report**
-- Worked with the team to integrate the frontend, backend, database, ML model, AI chatbot, and external APIs into one system
 
 ---
 
@@ -106,7 +107,7 @@ This was a team project built by four students. I was responsible for the **back
 | Biplov Gautam | Machine Learning |
 | Deepak Khanal | Data Collection, AI Chatbot & Project Management |
 | Jenish Bhattarai | Frontend Development |
-| Nita Dangol | Backend Development |
+| Nita Dangol | Backend Development, System Integration |
 
 **Supervisor:** Er. Roshan Kumar Sah
 
